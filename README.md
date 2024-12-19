@@ -4,4 +4,7 @@ A Flutter to-do app.
 
 ## Screenshots
 
-![light.png](light.png) ![dark.png](dark.png)
+| Light Theme             | Dark Theme            |
+|-------------------------|-----------------------|
+| ![light.png](light.png) | ![dark.png](dark.png) |
+
